@@ -1,0 +1,46 @@
+.card-largura{
+    max-width: 18rem;
+}
+
+.carrossel{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.carrossel2{
+    object-fit: cover;
+    height: 400px;
+}
+
+.fonte{
+    font-family: 'League Gothic', sans-serif;
+}
+.fonte2{
+ color: darkred !important;
+}
+.cor-especial{
+    color: darkred;
+}
+
+.cor-do-botao{
+     background-color: darkred;
+}
+
+.mol{
+    height: 215px;
+    object-fit: cover;
+    object-position: 0 90%;
+}
+.call{
+    height: 215px;
+    object-fit: cover;
+}
+.lero{
+    background-color: darkred;
+    border-color: darkred;
+    color: white;
+}
+.cor-da-borda{
+    border-color: darkred;
+}
